@@ -1,0 +1,12 @@
+# PAIR PROGRAMMING CHALLENGE: Make a terminal app using the Faker gem + one other gem
+
+This is pseudocode for our loto app
+
+q: who's playing
+    what's their name?
+(create infinite loop with break function)
+
+inputs get stored to an array of Hashes 
+
+output prints winners player name and number from Hashes  
+
